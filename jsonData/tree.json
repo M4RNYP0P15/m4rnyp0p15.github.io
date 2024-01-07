@@ -1,8 +1,8 @@
 {
-    "roslina":[
+    "kategorie":[
         { 
-            "typ": "Drzewko",
-            "rodzaj":[
+            "nazwa": "Drzewko",
+            "typ":[
                 {
                     "rodzaj": "Grusza",
                     "odmiany": [
@@ -249,8 +249,8 @@
             ]
         },
         {
-            "typ":"Krzew",
-            "rodzaj":[
+            "nazwa":"Krzew",
+            "typ":[
                 {
                     "rodzaj": "Winorośl",
                     "odmiany": [
