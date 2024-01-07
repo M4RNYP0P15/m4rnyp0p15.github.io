@@ -108,19 +108,19 @@
                                 "wodne":"t",
                                 "odczyn_gleby":"t"
                             },
-                            "pora_kwitnienia": "",
-                            "podatnosc_na_choroby": "",
-                            "samopylnosc": "",
-                            "zapylacze": [""],
-                            "ciecie": "", 
-                            "mrozoodpornosc": "",
+                            "pora_kwitnienia": "t",
+                            "podatnosc_na_choroby": "t",
+                            "samopylnosc": "t",
+                            "zapylacze": ["t"],
+                            "ciecie": "t", 
+                            "mrozoodpornosc": "t",
                             "dojrzalosc": {
-                                "zbiorcza":"",
-                                "konsumcyjna": ""
+                                "zbiorcza":"t",
+                                "konsumcyjna": "t"
                             },
-                            "okres_przechowywania": "",
-                            "rozstawa": "",
-                            "pochodzenie": ""
+                            "okres_przechowywania": "t",
+                            "rozstawa": "t",
+                            "pochodzenie": "t"
                         },
                         {
                             "nazwa":"",
@@ -251,9 +251,41 @@
         {
             "typ":"Krzew",
             "rodzaj":[
-                
+                {
+                    "rodzaj": "Winorośl",
+                    "odmiany": [
+                        {
+                            "nazwa":"t",
+                            "opis":"cos",
+                            "galeria":[
+                                {"src":"t"},
+                                {"src":"t"}
+                            ],
+                            "charakterystyka":"t",
+                            "owoc": "t",
+                            "uprawa": "t",
+                            "wymagania":{
+                                "sloneczne":"t",
+                                "wodne":"t",
+                                "odczyn_gleby":"t"
+                            },
+                            "pora_kwitnienia": "t",
+                            "podatnosc_na_choroby": "t",
+                            "samopylnosc": "t",
+                            "zapylacze": ["t"],
+                            "ciecie": "t", 
+                            "mrozoodpornosc": "t",
+                            "dojrzalosc": {
+                                "zbiorcza":"t",
+                                "konsumcyjna": "t"
+                            },
+                            "okres_przechowywania": "t",
+                            "rozstawa": "t",
+                            "pochodzenie": "t"
+                        }
+                    ]
+                }
             ]
         }
-    
     ]
 }
