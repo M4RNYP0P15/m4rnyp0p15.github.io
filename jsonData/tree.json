@@ -29,7 +29,7 @@
                             "mrozoodpornosc": "t",
                             "dojrzalosc": {
                                 "zbiorcza":"t",
-                                "konsumcyjna": "t"
+                                "konsumpcyjna": "t"
                             },
                             "okres_przechowywania": "t",
                             "rozstawa":"t",
@@ -58,7 +58,7 @@
                             "mrozoodpornosc": "t",
                             "dojrzalosc": {
                                 "zbiorcza":"t",
-                                "konsumcyjna": "t"
+                                "konsumpcyjna": "t"
                             },
                             "okres_przechowywania": "t",
                             "rozstawa":"t",
@@ -87,7 +87,7 @@
                             "mrozoodpornosc": "do -30°C / do -21",
                             "dojrzalosc":{
                                 "zbiorcza": "druga połowa/koniec sierpnia",
-                                "konsumcyjna": "zaraz po zerwaniu"
+                                "konsumpcyjna": "zaraz po zerwaniu"
                             },
                             "okres_przechowywania": "do 10 tygodni w chłodni",
                             "rozstawa": "1-2m X 3-3,5m = ok. 1 420 - 3 334 szt./ha",
@@ -116,7 +116,7 @@
                             "mrozoodpornosc": "t",
                             "dojrzalosc": {
                                 "zbiorcza":"t",
-                                "konsumcyjna": "t"
+                                "konsumpcyjna": "t"
                             },
                             "okres_przechowywania": "t",
                             "rozstawa": "t",
@@ -145,7 +145,7 @@
                             "mrozoodpornosc": "",
                             "dojrzalosc": {
                                 "zbiorcza":"",
-                                "konsumcyjna": ""
+                                "konsumpcyjna": ""
                             },
                             "okres_przechowywania": "",
                             "rozstawa": "",
@@ -174,7 +174,7 @@
                             "mrozoodpornosc": "",
                             "dojrzalosc": {
                                 "zbiorcza":"",
-                                "konsumcyjna": ""
+                                "konsumpcyjna": ""
                             },
                             "okres_przechowywania": "",
                             "rozstawa": "",
@@ -208,7 +208,7 @@
                             "mrozoodpornosc": "",
                             "dojrzalosc": {
                                 "zbiorcza":"",
-                                "konsumcyjna": ""
+                                "konsumpcyjna": ""
                             },
                             "okres_przechowywania": "",
                             "rozstawa":"",
@@ -237,7 +237,7 @@
                             "mrozoodpornosc": "",
                             "dojrzalosc": {
                                 "zbiorcza":"",
-                                "konsumcyjna": ""
+                                "konsumpcyjna": ""
                             },
                             "okres_przechowywania": "",
                             "rozstawa":"",
@@ -277,7 +277,7 @@
                             "mrozoodpornosc": "t",
                             "dojrzalosc": {
                                 "zbiorcza":"t",
-                                "konsumcyjna": "t"
+                                "konsumpcyjna": "t"
                             },
                             "okres_przechowywania": "t",
                             "rozstawa": "t",
