@@ -8,7 +8,6 @@
                     "odmiany": [
                         {
                             "nazwa":"Xenia",
-                            "opis":"cos",
                             "galeria":[
                                 {"src":"temp"},
                                 {"src":"temp"}
@@ -37,7 +36,6 @@
                         },
                         {
                             "nazwa":"Carola",
-                            "opis":"cos",
                             "galeria":[
                                 {"src":"t"},
                                 {"src":"t"}
@@ -66,7 +64,6 @@
                         },
                         {
                             "nazwa":"Faworytka (KLAPSA)",
-                            "opis":"cos",
                             "galeria":[
                                 {"src":"https://drzewka-faworytka.pl/userdata/public/gfx/2762/GRUSZA-FAWORYTKAKlapsa.jpg"},
                                 {"src":"https://drzewka-faworytka.pl/userdata/public/gfx/6827/GRUSZA-FAWORYTKAKlapsa.jpg"}
@@ -95,7 +92,6 @@
                         },
                         {
                             "nazwa":"t",
-                            "opis":"cos",
                             "galeria":[
                                 {"src":"t"},
                                 {"src":"t"}
@@ -124,7 +120,6 @@
                         },
                         {
                             "nazwa":"",
-                            "opis":"cos",
                             "galeria":[
                                 {"src":""},
                                 {"src":""}
@@ -153,7 +148,6 @@
                         },
                         {
                             "nazwa":"",
-                            "opis":"cos",
                             "galeria":[
                                 {"src":""},
                                 {"src":""}
@@ -187,7 +181,6 @@
                     "odmiany": [
                         {
                             "nazwa":"Delikates",
-                            "opis":"cos",
                             "galeria":[
                                 {"src":""},
                                 {"src":""}
@@ -216,7 +209,6 @@
                         },
                         {
                             "nazwa":"Antonówka",
-                            "opis":"cos",
                             "galeria":[
                                 {"src":""},
                                 {"src":""}
@@ -256,7 +248,6 @@
                     "odmiany": [
                         {
                             "nazwa":"t",
-                            "opis":"cos",
                             "galeria":[
                                 {"src":"t"},
                                 {"src":"t"}
