@@ -66,7 +66,8 @@
                             "nazwa":"Faworytka (KLAPSA)",
                             "galeria":[
                                 {"src":"https://drzewka-faworytka.pl/userdata/public/gfx/2762/GRUSZA-FAWORYTKAKlapsa.jpg"},
-                                {"src":"https://drzewka-faworytka.pl/userdata/public/gfx/6827/GRUSZA-FAWORYTKAKlapsa.jpg"}
+                                {"src":"https://drzewka-faworytka.pl/userdata/public/gfx/6827/GRUSZA-FAWORYTKAKlapsa.jpg"},
+                                {"src":"https://drzewka-faworytka.pl/userdata/public/gfx/2763/GRUSZA-FAWORYTKAKlapsa.jpg"}
                             ],
                             "charakterystyka":"Grusza Faworytka, nazywana Klapsą, to stara odmiana pochodzenia amerykańskiego. Do uprawy była wprowadzona już w XIX wieku. Powstała z Flamandki i Bonkrety Williamsa. Od dawna uprawiana jest prawie we wszystkich krajach klimatu umiarkowanego. W Polsce grusza Klapsa jest chętnie uprawiana i ceniona ze względu na swój wygląd i wyjątkowy smak owoców, które cechują się korzennym aromatem. W uprawie znajduje się też mutant Faworytki o czerwonych owocach – Red Faworytka. Spot jest równie popularny głównie w uprawach amatorskich. Charakteryzuje się on słabszym wzrostem drzewa, mniejszą wytrzymałością na mróz i większa podatnością na parcha i zarazę ogniową. Drzewka owocowe gruszki faworytki polecane są do uprawy towarowej oraz amatorskiej. Grusze tej odmiany mogą być sadzone zarówno w ogrodach przydomowych, jak i na działkach. Klienci szczególnie cenią ją za duże owoce i szybkie dojrzewanie. To dobry wybór na wszelkie przetwory i kompoty.",
                             "owoc": "Duże lub bardzo duże owoce o masie 150-200 g. Gruszki przybierają regularne w stosunku do siebie szeroko-jajowate kształty i pokrywają się grubą, subtelnie połyskującą skórą o zielonkawo-żółtej barwie, której powierzchnię w około 50% zajmuje ciemnoczerwony, rozmyty rumieniec. Owoce posiadają średniej wielkości gniazdo nasienne i charakteryzują się zamkniętymi komorami. Liczne, średniej wielkości nasiona cechuje z kolei szeroka i pękata forma. Klapsa posiada biało-kremowy miąższ o drobnoziarnistej, masłowej strukturze i winno-słodkim smaku z subtelnie wyczuwalnym, korzennym aromatem. Owoce znajdują zastosowanie w sektorze deserowo-przetwórczym i powszechnie wykorzystywane są m. in. jako składnik kompotów, soków, nalewek, win, dżemów oraz susz. Gruszki Faworytki każdorazowo dojrzewają jednak nierównomiernie, nie wykazując tendencji do przedwczesnego opadania. Zbiory nie łatwo ulegają uszkodzeniom mechanicznym i dobrze znoszą transport.",
@@ -91,7 +92,7 @@
                             "pochodzenie": "USA"
                         },
                         {
-                            "nazwa":"t",
+                            "nazwa":"Bera złota",
                             "galeria":[
                                 {"src":"t"},
                                 {"src":"t"}
@@ -119,7 +120,7 @@
                             "pochodzenie": "t"
                         },
                         {
-                            "nazwa":"",
+                            "nazwa":"Komiksówka",
                             "galeria":[
                                 {"src":""},
                                 {"src":""}
@@ -147,7 +148,203 @@
                             "pochodzenie": ""
                         },
                         {
-                            "nazwa":"",
+                            "nazwa":"Konferencja",
+                            "galeria":[
+                                {"src":""},
+                                {"src":""}
+                            ],
+                            "charakterystyka":"",
+                            "owoc": "",
+                            "uprawa": "",
+                            "wymagania":{
+                                "sloneczne":"",
+                                "wodne":"",
+                                "odczyn_gleby":""
+                            },
+                            "pora_kwitnienia": "",
+                            "podatnosc_na_choroby": "",
+                            "samopylnosc": "",
+                            "zapylacze": [""],
+                            "ciecie": "", 
+                            "mrozoodpornosc": "",
+                            "dojrzalosc": {
+                                "zbiorcza":"",
+                                "konsumpcyjna": ""
+                            },
+                            "okres_przechowywania": "",
+                            "rozstawa": "",
+                            "pochodzenie": ""
+                        },
+                        {
+                            "nazwa":"Pomarańczówka",
+                            "galeria":[
+                                {"src":""},
+                                {"src":""}
+                            ],
+                            "charakterystyka":"",
+                            "owoc": "",
+                            "uprawa": "",
+                            "wymagania":{
+                                "sloneczne":"",
+                                "wodne":"",
+                                "odczyn_gleby":""
+                            },
+                            "pora_kwitnienia": "",
+                            "podatnosc_na_choroby": "",
+                            "samopylnosc": "",
+                            "zapylacze": [""],
+                            "ciecie": "", 
+                            "mrozoodpornosc": "",
+                            "dojrzalosc": {
+                                "zbiorcza":"",
+                                "konsumpcyjna": ""
+                            },
+                            "okres_przechowywania": "",
+                            "rozstawa": "",
+                            "pochodzenie": ""
+                        },
+                        {
+                            "nazwa":"Triumf Packhama",
+                            "galeria":[
+                                {"src":""},
+                                {"src":""}
+                            ],
+                            "charakterystyka":"",
+                            "owoc": "",
+                            "uprawa": "",
+                            "wymagania":{
+                                "sloneczne":"",
+                                "wodne":"",
+                                "odczyn_gleby":""
+                            },
+                            "pora_kwitnienia": "",
+                            "podatnosc_na_choroby": "",
+                            "samopylnosc": "",
+                            "zapylacze": [""],
+                            "ciecie": "", 
+                            "mrozoodpornosc": "",
+                            "dojrzalosc": {
+                                "zbiorcza":"",
+                                "konsumpcyjna": ""
+                            },
+                            "okres_przechowywania": "",
+                            "rozstawa": "",
+                            "pochodzenie": ""
+                        },
+                        {
+                            "nazwa":"Chojuro",
+                            "galeria":[
+                                {"src":""},
+                                {"src":""}
+                            ],
+                            "charakterystyka":"",
+                            "owoc": "",
+                            "uprawa": "",
+                            "wymagania":{
+                                "sloneczne":"",
+                                "wodne":"",
+                                "odczyn_gleby":""
+                            },
+                            "pora_kwitnienia": "",
+                            "podatnosc_na_choroby": "",
+                            "samopylnosc": "",
+                            "zapylacze": [""],
+                            "ciecie": "", 
+                            "mrozoodpornosc": "",
+                            "dojrzalosc": {
+                                "zbiorcza":"",
+                                "konsumpcyjna": ""
+                            },
+                            "okres_przechowywania": "",
+                            "rozstawa": "",
+                            "pochodzenie": ""
+                        },
+                        {
+                            "nazwa":"Early Shu",
+                            "galeria":[
+                                {"src":""},
+                                {"src":""}
+                            ],
+                            "charakterystyka":"",
+                            "owoc": "",
+                            "uprawa": "",
+                            "wymagania":{
+                                "sloneczne":"",
+                                "wodne":"",
+                                "odczyn_gleby":""
+                            },
+                            "pora_kwitnienia": "",
+                            "podatnosc_na_choroby": "",
+                            "samopylnosc": "",
+                            "zapylacze": [""],
+                            "ciecie": "", 
+                            "mrozoodpornosc": "",
+                            "dojrzalosc": {
+                                "zbiorcza":"",
+                                "konsumpcyjna": ""
+                            },
+                            "okres_przechowywania": "",
+                            "rozstawa": "",
+                            "pochodzenie": ""
+                        },
+                        {
+                            "nazwa":"Nijisseiki",
+                            "galeria":[
+                                {"src":""},
+                                {"src":""}
+                            ],
+                            "charakterystyka":"",
+                            "owoc": "",
+                            "uprawa": "",
+                            "wymagania":{
+                                "sloneczne":"",
+                                "wodne":"",
+                                "odczyn_gleby":""
+                            },
+                            "pora_kwitnienia": "",
+                            "podatnosc_na_choroby": "",
+                            "samopylnosc": "",
+                            "zapylacze": [""],
+                            "ciecie": "", 
+                            "mrozoodpornosc": "",
+                            "dojrzalosc": {
+                                "zbiorcza":"",
+                                "konsumpcyjna": ""
+                            },
+                            "okres_przechowywania": "",
+                            "rozstawa": "",
+                            "pochodzenie": ""
+                        },
+                        {
+                            "nazwa":"Shinseiki",
+                            "galeria":[
+                                {"src":""},
+                                {"src":""}
+                            ],
+                            "charakterystyka":"",
+                            "owoc": "",
+                            "uprawa": "",
+                            "wymagania":{
+                                "sloneczne":"",
+                                "wodne":"",
+                                "odczyn_gleby":""
+                            },
+                            "pora_kwitnienia": "",
+                            "podatnosc_na_choroby": "",
+                            "samopylnosc": "",
+                            "zapylacze": [""],
+                            "ciecie": "", 
+                            "mrozoodpornosc": "",
+                            "dojrzalosc": {
+                                "zbiorcza":"",
+                                "konsumpcyjna": ""
+                            },
+                            "okres_przechowywania": "",
+                            "rozstawa": "",
+                            "pochodzenie": ""
+                        },
+                        {
+                            "nazwa":"Tsu Li",
                             "galeria":[
                                 {"src":""},
                                 {"src":""}
