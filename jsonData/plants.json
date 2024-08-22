@@ -1,7 +1,7 @@
 {"kategorie": [
   {"nazwa": "Drzewa", "typ": [
     {"rodzaj": "Jab\u0142o\u0144", "odmiany": [
-      {"nazwa": "Delikates", "galeria": ["http://drzewka.pl/delikates/1.png"], "charakterystyka": "fajne drzewko", "owoc": "Dobry du\u017cy", "uprawa": "Szybka", "wymagania": {"sloneczne": "p\u00f3\u0142cie\u0144", "wodne": "\u015brednie", "odczyn_gleby": "6.5-7 ph"}, "pora_kwitnienia": "kwiecie\u0144", "podatnosc_na_choroby": ["d1"], "samopylnosc": "True", "zapylacze": ["Cortland"], "ciecie": "Wiosna", "mrozoodpornosc": "niska", "dojrzalosc": {"zbiorcza": "sierpie\u0144", "konsumpcyjna": "sierpie\u0144"}, "okres_przechowywania": "7 dni", "rozstawa": "2x3m", "pochodzenie": "Ameryka"}
+      {"nazwa": "Delikates", "galeria": ["http://drzewka.pl/delikates/1.png"], "charakterystyka": "fajne drzewko", "owoc": "Dobry du\u017cy", "uprawa": "Szybka", "wymagania": {"sloneczne": "p\u00f3\u0142cie\u0144", "wodne": "\u015brednie", "odczyn_gleby": "6.5-7 ph"}, "pora_kwitnienia": "kwiecie\u0144", "podatnosc_na_choroby": [1], "samopylnosc": "True", "zapylacze": ["Cortland"], "ciecie": "Wiosna", "mrozoodpornosc": "niska", "dojrzalosc": {"zbiorcza": "sierpie\u0144", "konsumpcyjna": "sierpie\u0144"}, "okres_przechowywania": "7 dni", "rozstawa": "2x3m", "pochodzenie": "Ameryka"}
     ]
     }
   ]
@@ -9,7 +9,7 @@
 ],
   "choroby": [
     {
-      "id": "d1",
+      "id": 1,
       "name": "Powdery Mildew",
       "gallery": ["http://drzewka.pl/maczniak"],
       "description": "A fungal disease that appears as white, powdery spots on leaves and stems.",
