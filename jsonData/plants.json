@@ -23,7 +23,7 @@
               "pora_kwitnienia": "kwiecie\u0144", 
               "podatnosc_na_choroby": [1], 
               "samopylnosc": true, 
-              "zapylacze": ["Cortland",], 
+              "zapylacze": ["Cortland"], 
               "ciecie": "Wiosna", 
               "mrozoodpornosc": "niska", 
               "dojrzalosc": {
