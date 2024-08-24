@@ -7,6 +7,7 @@
           "rodzaj": "Jab\u0142o\u0144", 
           "odmiany": [
             {
+              "id": 0,
               "nazwa": "Delikates", 
               "galeria": [
                 "http://drzewka.pl/delikates/1.png",
@@ -35,6 +36,7 @@
               "pochodzenie": "Ameryka"
             },
             {
+              "id": 1,
               "nazwa": "Delikatesss", 
               "galeria": [
                 "http://drzewka.pl/delikates/1.png",
